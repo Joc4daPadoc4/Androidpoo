@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
-        tools:layout_editor_absoluteX="113dp"
-        tools:layout_editor_absoluteY="135dp" />
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="62dp" />
 
     <EditText
         android:id="@+id/etx_nome"
@@ -23,8 +23,8 @@
         android:ems="10"
         android:inputType="text"
         android:text="Name"
-        tools:layout_editor_absoluteX="107dp"
-        tools:layout_editor_absoluteY="234dp" />
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="180dp" />
 
     <EditText
         android:id="@+id/etx_documetos"
@@ -34,7 +34,7 @@
         android:inputType="text"
         android:text="Name"
         tools:layout_editor_absoluteX="100dp"
-        tools:layout_editor_absoluteY="316dp" />
+        tools:layout_editor_absoluteY="273dp" />
 
     <EditText
         android:id="@+id/etx_curso"
@@ -43,16 +43,16 @@
         android:ems="10"
         android:inputType="text"
         android:text="Name"
-        tools:layout_editor_absoluteX="101dp"
-        tools:layout_editor_absoluteY="405dp" />
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="371dp" />
 
     <Button
         android:id="@+id/btn_cadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="465dp" />
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="497dp" />
 
     <Button
         android:id="@+id/btn_vizualizar"
@@ -60,6 +60,6 @@
         android:layout_height="wrap_content"
         android:text="Button"
         tools:layout_editor_absoluteX="160dp"
-        tools:layout_editor_absoluteY="536dp" />
+        tools:layout_editor_absoluteY="575dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
