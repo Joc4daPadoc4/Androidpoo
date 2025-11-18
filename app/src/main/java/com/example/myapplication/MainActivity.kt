@@ -19,7 +19,12 @@ class MainActivity : AppCompatActivity() {
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
-        }
+            insets;
+        });
+
+        id_var = findViewByid(R.id.etx_id);
+        nome = findViewByid(R.id.etx_id);
+        documentondViewByid(R.id.etx_id);
+        curso= findViewByid(R.id.etx_id);
     }
 }
