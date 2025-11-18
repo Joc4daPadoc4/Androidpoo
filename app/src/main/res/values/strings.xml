@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="texto_Avancar">AVANCAR</string>
+    <string name="texto_Consultar">CONSULTAR </string>
+    <string name="texto_Nome">NOME </string>
+    <string name="texto_Documentos">DOUMENTO</string>
+    <string name="texto_Curso">CURSO</string>
 </resources>
